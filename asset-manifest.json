@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vscode-like-Portfolio/static/css/main.5f5a0037.css",
+    "main.js": "/Vscode-like-Portfolio/static/js/main.27c2d760.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Vscode-like-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Vscode-like-Portfolio/index.html",
+    "main.5f5a0037.css.map": "/Vscode-like-Portfolio/static/css/main.5f5a0037.css.map",
+    "main.27c2d760.js.map": "/Vscode-like-Portfolio/static/js/main.27c2d760.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Vscode-like-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5a0037.css",
+    "static/js/main.27c2d760.js"
+  ]
+}
