@@ -19,7 +19,7 @@ function Main() {
 				<Sidebar />
 				<Routes>
 					<Route path='/' element={<Home />} />
-					<Route path='/Vscode-like-Portfolio/' element={<Home />} />
+					<Route path='arijit-101.github.io/Vscode-like-Portfolio/' element={<Home />} />
 					<Route path='/about' element={<About />} />
 					<Route path='/contact' element={<Contact />} />
 					<Route path='/projects' element={<Projects />} />
