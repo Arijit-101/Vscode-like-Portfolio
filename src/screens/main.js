@@ -18,7 +18,6 @@ function Main() {
 			<div className='flex flex-row  bg-red-400'>
 				<Sidebar />
 				<Routes>
-
 					<Route path={'/' | '/Vscode-like-Portfolio'} element={<Home />} />			
 					<Route path='/about' element={<About />} />
 					<Route path='/contact' element={<Contact />} />
